@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @9shhh
-- 👀 I’m Web Backend Programming.
+- 👀 I’m Web Backend Programmer.
 
 <!---
 9shhh/9shhh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
