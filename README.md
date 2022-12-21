@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @9shhh
+- 👋 Hi ~
 - 👀 I’m Web Backend Programmer.
 - https://velog.io/@devparkk (blog)
 <!---
